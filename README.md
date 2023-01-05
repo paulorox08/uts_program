@@ -1,7 +1,5 @@
 # uts_program
-In business or technical terms describe your understanding of continuous 
-integration and continuous delivery (CI/CD)? What are some tools that are 
-used for this and why are they used.
+<u>In business or technical terms describe your understanding of continuous integration and continuous delivery (CI/CD)? What are some tools that are used for this and why are they used.</u>
 
 Both continous integration (CI) and continous delivery (CI) are fundamental
 practices of software development. CI is the practice of frequently merging 
@@ -17,16 +15,18 @@ in software engineering for its ability to quickly automate builds and tests.
 Buddy is more common in commercial settings for its ease to use interface and
 design. GitLab CI is highly scalable and has many features that allow seamless project integration. 
 
+<u>References</u>
+
+Amazon Web Services. (n.d.) What is Continous Integration?. 
+https://aws.amazon.com/devops/continuous-integration/#:~:text=Continuous%20integration%20refers%20to%20the,for%20a%20release%20to%20production.
 
 Bezsmolna, V. (2019). Top 7 Continuous Integration Tools for DevOps. SmartBear.
 https://smartbear.com/blog/top-continuous-integration-tools-for-devops/
 
-Rehkopf, M. (2023). What is Continous Integration?. Atlassian.
-https://www.atlassian.com/continuous-delivery/continuous-integration
-
 Pittet, S. (2023). Continous integration vs. deliver vs. deployment. Atlassian.
 https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
 
-Amazon Web Services. (n.d.) What is Continous Integration?. 
-https://aws.amazon.com/devops/continuous-integration/#:~:text=Continuous%20integration%20refers%20to%20the,for%20a%20release%20to%20production.
+Rehkopf, M. (2023). What is Continous Integration?. Atlassian.
+https://www.atlassian.com/continuous-delivery/continuous-integration
+
 
