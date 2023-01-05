@@ -17,16 +17,16 @@ design. GitLab CI is highly scalable and has many features that allow seamless p
 
 <ins>References</ins>
 
-Amazon Web Services. (n.d.) What is Continous Integration?. 
+* Amazon Web Services. (n.d.) What is Continous Integration?. 
 https://aws.amazon.com/devops/continuous-integration/#:~:text=Continuous%20integration%20refers%20to%20the,for%20a%20release%20to%20production.
 
-Bezsmolna, V. (2019). Top 7 Continuous Integration Tools for DevOps. SmartBear.
+* Bezsmolna, V. (2019). Top 7 Continuous Integration Tools for DevOps. SmartBear.
 https://smartbear.com/blog/top-continuous-integration-tools-for-devops/
 
-Pittet, S. (2023). Continous integration vs. deliver vs. deployment. Atlassian.
+* Pittet, S. (2023). Continous integration vs. deliver vs. deployment. Atlassian.
 https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
 
-Rehkopf, M. (2023). What is Continous Integration?. Atlassian.
+* Rehkopf, M. (2023). What is Continous Integration?. Atlassian.
 https://www.atlassian.com/continuous-delivery/continuous-integration
 
 
