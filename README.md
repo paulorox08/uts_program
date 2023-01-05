@@ -7,10 +7,11 @@ changes back to the main branch which are validated by automated tests. It helps
 avoid merge conflicts, duplicate code, and lessens the chances of bugs. CD 
 builds on the practice of CI by deploying changes automatically to a testing 
 and/or production environment. This allows the ability to produce software in
-short cycles that are easy to troubleshoot. 
+short cycles that are much easier to troubleshoot and correct. 
 
 There are many options regarding tools for CI and CD. Some of the popular tools 
-inlcude Jenkins, Buddy, and GitLab CI due to their ease of use, deep customization and features. Jenkins is a server-based CI application widely used
+inlcude Jenkins, Buddy, and GitLab CI due to their ease of use, deep customization and features. 
+Each tool specializes in an area that makes it more desirable for different developers or industry. Jenkins is a server-based CI application widely used
 in software engineering for its ability to quickly automate builds and tests.
 Buddy is more common in commercial settings for its ease to use interface and
 design. GitLab CI is highly scalable and has many features that allow seamless project integration. 
